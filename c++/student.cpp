@@ -1,6 +1,9 @@
 
 #include<iostream>
 using namespace std;
+
+// Testing adding item
+
 class student
 {
     char name[100];
